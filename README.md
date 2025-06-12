@@ -108,7 +108,7 @@ yarn dev:client
 
 ## 📘 API Documentation
 
-API is RESTful and documented using Swagger (optional).
+API is RESTful and documented using Swagger.
 
 Base URL: `http://localhost:3000/api`
 
