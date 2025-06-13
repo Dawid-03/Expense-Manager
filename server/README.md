@@ -20,8 +20,8 @@ A RESTful API for managing personal expenses and income, built with NestJS, Post
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd expense-manager-api
+git clone https://github.com/Dawid-03/Expense-Manager.git
+cd expense-manager
 ```
 
 2. Install dependencies:
